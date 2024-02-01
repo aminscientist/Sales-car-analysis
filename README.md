@@ -6,7 +6,7 @@ Version 1.0 | 31/12/2023
 - **Project Name:** AutoOptimize Initiative
 - **Description:** Enhancing revenues and sales analysis in the automotive industry using advanced data analytics and real-time insights.
 - **Data Controller:** DriveWise Trading Company
-- **Managers:EL OUTMADI Abderrahim
+- **Managers:** EL OUTMADI Abderrahim
 - **Data Protection Officers:** BENAZZOUZ Amine
 - **Contact:** contact.dpo@drive-wise.com
 
