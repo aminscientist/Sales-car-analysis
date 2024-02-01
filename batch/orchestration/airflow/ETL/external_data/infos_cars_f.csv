@@ -1,0 +1,26 @@
+Make,Model,Fuel,Vehicle Type,Engine Size,Horsepower,Origin Country,Transmission,Kilometers Driven,Engine Power,Fuel Type,Cylinders,Weight,Speed,Doors,EPA Fuel Economy Score,Fuel Efficiency,Safety Ratings
+Nissan,Altima,Gas,Sedan,2.5L,188,Japan,Automatic,82000,150 kW,Gasoline,4,1400 kg,200 km/h,4,6,28 mpg,4/5
+Nissan,F-150,Gas,Truck,5.0L,395,Japan,Automatic,98000,295 kW,Gasoline,8,2300 kg,230 km/h,4,4,18 mpg,3/5
+Ford,Civic,Gas,Sedan,2.0L,158,USA,Manual,72000,120 kW,Gasoline,4,1300 kg,190 km/h,4,8,32 mpg,5/5
+Ford,Altima,Gas,Sedan,2.5L,188,USA,Automatic,105000,150 kW,Gasoline,4,1400 kg,200 km/h,4,6,28 mpg,4/5
+Honda,Silverado,Gas,Truck,5.3L,355,Japan,Automatic,95000,265 kW,Gasoline,8,2400 kg,220 km/h,4,5,20 mpg,4/5
+Honda,F-150,Gas,Truck,5.0L,395,Japan,Automatic,92000,295 kW,Gasoline,8,2300 kg,230 km/h,4,4,18 mpg,3/5
+Ford,Corolla,Gas,Sedan,1.8L,140,USA,Manual,75000,96 kW,Gasoline,4,1200 kg,180 km/h,4,7,34 mpg,4/5
+Toyota,Silverado,Gas,Truck,5.3L,355,Japan,Automatic,88000,265 kW,Gasoline,8,2400 kg,210 km/h,4,5,20 mpg,4/5
+Toyota,F-150,Gas,Truck,5.0L,395,Japan,Automatic,95000,295 kW,Gasoline,8,2300 kg,230 km/h,4,4,18 mpg,3/5
+Chevrolet,Altima,Gas,Sedan,2.5L,188,USA,Automatic,92000,150 kW,Gasoline,4,1400 kg,200 km/h,4,6,28 mpg,4/5
+Honda,Corolla,Gas,Sedan,1.8L,140,Japan,Automatic,82000,96 kW,Gasoline,4,1200 kg,180 km/h,4,7,34 mpg,3/5
+Nissan,Silverado,Gas,Truck,5.3L,355,Japan,Automatic,95000,265 kW,Gasoline,8,2400 kg,220 km/h,4,5,20 mpg,4/5
+Toyota,Civic,Gas,Sedan,2.0L,158,Japan,Automatic,69000,120 kW,Gasoline,4,1300 kg,190 km/h,4,8,32 mpg,4/5
+Nissan,Civic,Gas,Sedan,2.0L,158,Japan,Automatic,85000,120 kW,Gasoline,4,1300 kg,190 km/h,4,8,32 mpg,4/5
+Chevrolet,F-150,Gas,Truck,5.0L,395,USA,Automatic,92000,295 kW,Gasoline,8,2300 kg,220 km/h,4,4,18 mpg,3/5
+Chevrolet,Silverado,Gas,Truck,5.3L,355,USA,Automatic,98000,265 kW,Gasoline,8,2400 kg,210 km/h,4,5,20 mpg,4/5
+Ford,Silverado,Gas,Truck,5.3L,355,USA,Automatic,105000,265 kW,Gasoline,8,2400 kg,210 km/h,4,5,20 mpg,4/5
+Toyota,Altima,Gas,Sedan,2.5L,188,Japan,Automatic,88000,150 kW,Gasoline,4,1400 kg,200 km/h,4,6,28 mpg,5/5
+Chevrolet,Civic,Gas,Sedan,2.0L,158,USA,Manual,72000,120 kW,Gasoline,4,1300 kg,190 km/h,4,8,32 mpg,5/5
+Chevrolet,Corolla,Gas,Sedan,1.8L,140,USA,Manual,75000,96 kW,Gasoline,4,1200 kg,180 km/h,4,7,34 mpg,4/5
+Honda,Civic,Gas,Sedan,2.0L,158,Japan,Automatic,69000,120 kW,Gasoline,4,1300 kg,190 km/h,4,8,32 mpg,4/5
+Nissan,Corolla,Gas,Sedan,1.8L,140,Japan,Automatic,82000,96 kW,Gasoline,4,1200 kg,180 km/h,4,7,34 mpg,3/5
+Toyota,Corolla,Gas,Sedan,1.8L,140,Japan,Automatic,90000,96 kW,Gasoline,4,1200 kg,180 km/h,4,7,34 mpg,4/5
+Ford,F-150,Diesel,Truck,3.5L,450,USA,Automatic,95000,335 kW,Diesel,6,2200 kg,240 km/h,4,5,17 mpg,4/5
+Honda,Altima,Gas,Sedan,2.5L,188,Japan,Automatic,92000,150 kW,Gasoline,4,1400 kg,200 km/h,4,6,28 mpg,4/5
