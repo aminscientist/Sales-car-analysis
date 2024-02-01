@@ -1,6 +1,6 @@
 # AutoOptimize Initiative GDPR Compliance Plan
 
-Version 1.0 | 31/12/2024
+Version 1.0 | 31/12/2023
 
 ## Project Overview
 - **Project Name:** AutoOptimize Initiative
