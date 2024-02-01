@@ -13,6 +13,7 @@ Version 1.0 | 31/12/2024
 ## Data Inventory and Objective Specification
 ### Data Types Collected
 - **Car Sales Data (CSD):** Car Make, Car Model, Car Year, Commission Earned, Commission Rate, Country, Customer Name, Date, Sale Price, Salesperson
+- **External data for cars informations (EDI):** Contains detailed informations on cars 
 
 ### Data Collection Points
 - Interaction with the AutoOptimize Initiative platform
